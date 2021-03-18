@@ -62,7 +62,7 @@ html {
   
   nav {
     width: 1900px;
-    height: 100vh;
+    height: 950px;
     position: fixed;
     top: 0;
     left: 0;
@@ -93,7 +93,7 @@ html {
   
   nav a,
   .menu {
-    text-decoration: none;
+    text-decoration: underline;
     padding: 10px;
     font-size: 18px;
   }
