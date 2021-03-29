@@ -79,9 +79,9 @@ html {
   .menu_ouvert nav {
     visibility: visible;
     opacity: 1;
-    transition: visibility 0s, opacity 0.1s ease-out;
+    transition: visibility 1s, opacity 0.5s ease-out;
   }
-  
+
   nav a {
     color: #eee;
   }
