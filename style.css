@@ -73,7 +73,7 @@ html {
     display: flex;
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s, opacity 0.1s ease-out;
+    transition: visibility 0s, opacity 0.5s ease-out;
   }
   
   .menu_ouvert nav {
