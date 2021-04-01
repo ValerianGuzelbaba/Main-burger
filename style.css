@@ -61,8 +61,8 @@ html {
   }
   
   nav {
-    width: 1900px;
-    height: 950px;
+    width: 100vw;
+    height: 50vw;
     position: fixed;
     top: 0;
     left: 0;
